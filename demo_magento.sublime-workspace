@@ -1,0 +1,931 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"boredr",
+				"border-radius"
+			],
+			[
+				"nav-",
+				"nav-size"
+			],
+			[
+				"yourcar",
+				"yourcar-window"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"H5",
+				"h5"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"zf",
+				"zfcr	container & row"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"trans",
+				"text-transform"
+			],
+			[
+				"bA",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"delay",
+				"delay-05s"
+			],
+			[
+				"delay-",
+				"delay-03s"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"inclu",
+				"include	@include"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"read",
+				"readjson	grunt.file.readJSON"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"ly",
+				"luckyNumber"
+			],
+			[
+				"lucky",
+				"luckyNumber"
+			],
+			[
+				"luck",
+				"luckyNumber"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"se",
+				"section	<section>"
+			],
+			[
+				"basic",
+				"basic_red"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"hover",
+				"hover-class"
+			],
+			[
+				"fig",
+				"figcaption	<figcaption>"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"box",
+				"modalBox"
+			],
+			[
+				"pic-",
+				"pic-caption"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"anim",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"modal",
+				"modalBox"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"light",
+				"light_gray"
+			],
+			[
+				"medi",
+				"medium_gray"
+			],
+			[
+				"basi",
+				"basic_black"
+			],
+			[
+				"firt",
+				"first-child"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"gra",
+				"stone_gray"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bas",
+				"basic_red"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"black",
+				"basic_black"
+			],
+			[
+				"li",
+				"light_gray"
+			],
+			[
+				"abou",
+				"about_white"
+			],
+			[
+				"mi",
+				"medium_gray"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"FONT-",
+				"font-size"
+			],
+			[
+				"PA",
+				"padding-right"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Firefox.sublime-build",
+	"command_palette":
+	{
+		"height": 63.0,
+		"selected_items":
+		[
+			[
+				"Snippet: xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"browser integration",
+				"Browser Integration: Settings (Default)"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"Snippet: full",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"Snippet: zf",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"Snippet: html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: LIST",
+				"Snippet: f4-inline-list"
+			],
+			[
+				"Snippet: ZF",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"Snippet: grid",
+				"Snippet: ZURB Foundation Third Grid"
+			],
+			[
+				"Snippet: fu",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"Snippet: f5",
+				"Snippet: ZURB Foundation 5 Orbit Content Slider"
+			],
+			[
+				"Snippet: bs3-nav",
+				"Snippet: bs3-navbar-basic"
+			],
+			[
+				"Snippet: bs3-col",
+				"Snippet: bs3-col-8"
+			],
+			[
+				"Snippet: bs3",
+				"Snippet: bs3-navbar-basic"
+			],
+			[
+				"Snippet: bs3ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: gr",
+				"Snippet: grunt.config.process"
+			],
+			[
+				"Snippet: grunt",
+				"Snippet: grunt.file.write"
+			],
+			[
+				"Snippet: html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: ZURB Foundation 5 Buttons"
+			],
+			[
+				"Snippet: f",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"Snippet: orbit",
+				"Snippet: ZURB Foundation 5 Orbit Slider"
+			],
+			[
+				"zf",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 456.0,
+		"history":
+		[
+			"tidy -v",
+			"tidy -help",
+			"tidy help",
+			"make -C build/gmake/",
+			"make install -C build/gmake/",
+			"tidy -help",
+			"Tidy",
+			"TidyHTML",
+			"Tidy HTML",
+			"tidy -help",
+			" tidy -help",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/User/Firefox.sublime-build",
+		"/C/wamp/www/MAGENTO/magento/app/code/local/demo/yourcar_Demo.xml",
+		"/C/wamp/www/MAGENTO/magento/app/code/local/demo/etc/config.xml",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/explorers.html",
+		"/C/wamp/www/MAGENTO/magento/index.php",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/tours.html",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/mission.html",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/index.html",
+		"/c/Users/Natalia/.bash_profile",
+		"/C/wamp/www/designmag/index.html",
+		"/C/Users/Natalia/Documents/StudyBooks/LYNDA.COM Videos/Lynda.com XML. Essential Training/Lynda.com XML Essential Training/Exercise Files/04_work/FirstXMLFile.xml",
+		"/C/Users/Natalia/Documents/StudyBooks/LYNDA.COM Videos/Lynda.com XML. Essential Training/Lynda.com XML Essential Training/Exercise Files/04_work/FirstXMLFile.css",
+		"/C/Users/Natalia/Documents/StudyBooks/LYNDA.COM Videos/Lynda.com XML. Essential Training/Lynda.com XML Essential Training/Exercise Files/04_work/businesscard.css",
+		"/C/Users/Natalia/Documents/Pirates Bay/MS OFFICE/Office 2010 Activator.By Razor/Office 2010 Activator.By Razor/[INFO].txt",
+		"/C/Users/Natalia/Documents/Pirates Bay/MS OFFICE/Office 2010 Activator.By Razor/[INFO].txt",
+		"/c/wamp/www/designmag/.bash_profile",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/.gitignore",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/tempfile.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/comments log",
+		"/c/Users/Natalia/Documents/StudyBooks/explore_california/.gitignore",
+		"/c/Users/Natalia/Documents/StudyBooks/explore_california/assets/PDF/.gitkeep",
+		"/C/Users/Natalia/.bash_profile",
+		"/C/Users/Natalia/.bashrc.txt",
+		"/C/wamp/www/landapp/index.html",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/junk3.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/junk1.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/explore_california/junk2.txt",
+		"/C/Bitnami/magento-1.9.0.1-1/README.txt",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/User/chrome-localhost.sublime-build",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/landapp/landing.sublime-project",
+		"/C/Users/Natalia/Documents/StudyBooks/git-test/file_to_delete2.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/git-test/file_to_delete1.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/git-test/third_file.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/git-test/second_file.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/git-test/first_file.txt",
+		"/C/Users/Natalia/AppData/Roaming/Sublime Text 3/Packages/User/new_test.txt",
+		"/C/wamp/www/designmag/projects.html",
+		"/C/wamp/www/designmag/scss/partials/_base.scss",
+		"/C/wamp/www/designmag/scss/_settings.scss",
+		"/C/wamp/www/designmag/scss/partials/_media.scss",
+		"/C/Users/Natalia/Documents/StudyBooks/git-test/file.txt",
+		"/C/Users/Natalia/Documents/Pirates Bay/QuickTime Pro  7.73.80.64+keyG by Senzati/QuickTime Pro  7.73.80.64+keyG by Senzati/ReadMe!.txt",
+		"/C/Users/Natalia/Documents/StudyBooks/LYNDA.COM Videos/Lynda.com - Git Essential Training/00. Introduction/00. Intro.txt",
+		"/C/wamp/www/landerapp/css/style.css",
+		"/C/wamp/www/designmag/scss/partials/_typography.scss",
+		"/C/wamp/www/designmag/send_email.php",
+		"/C/wamp/www/designmag/scss/helpers/_mixins.scss",
+		"/C/wamp/www/designmag/scss/helpers/_media-queries.scss",
+		"/C/wamp/www/landapp/assets/scss/helpers/_mixins.scss",
+		"/C/wamp/www/landapp/assets/scss/helpers/_media-queries.scss",
+		"/C/wamp/www/landapp/assets/scss/modules/_animlandpage.scss",
+		"/C/wamp/www/landapp/assets/scss/helpers/_variables.scss",
+		"/C/wamp/www/landapp/assets/scss/partials/_typography.scss",
+		"/C/wamp/www/newapp/index.html",
+		"/C/wamp/www/landapp/.jshintrc",
+		"/C/wamp/www/landapp/Gruntfile.js",
+		"/C/wamp/www/landapp/assets/scss/app.scss",
+		"/C/wamp/www/landapp/assets/src/css/landpage.css",
+		"/C/wamp/www/landapp/assets/scss/partials/_base.scss",
+		"/C/wamp/www/landapp/assets/js/vendor/landingpage/script.js",
+		"/C/wamp/www/landapp/assets/scss/modules/_landpage.scss",
+		"/C/wamp/www/landerapp/index.html",
+		"/C/wamp/www/landapp/assets/js/vendor/landingpage/plugins/jquery.ba-hashchange.min.js",
+		"/C/wamp/www/landapp/404.html",
+		"/C/Users/Natalia/Downloads/detectmobilebrowser.js.txt",
+		"/C/wamp/www/landapp/assets/js/vendor/dmmenu/dmmenu.js",
+		"/C/wamp/www/landapp/assets/js/vendor/scripts.js",
+		"/C/Users/Natalia/Downloads/detectmobilebrowser.js (1).txt",
+		"/C/wamp/www/landapp/assets/scss/_settings.scss",
+		"/C/wamp/www/landapp/assets/scss/partials/_media.scss",
+		"/C/wamp/www/landapp/assets/scss/modules/_nexusmenu.scss",
+		"/C/Users/Natalia/Desktop/GoogleNexusWebsiteMenu/index.html",
+		"/C/wamp/www/landerapp/js/plugins/jquery.ba-hashchange.min.js",
+		"/C/wamp/www/landerapp/js/script.js",
+		"/C/Users/Natalia/Desktop/GoogleNexusWebsiteMenu/css/demo.css",
+		"/C/wamp/www/landapp/bower_components/foundation/scss/foundation/components/_forms.scss",
+		"/C/Users/Natalia/Desktop/GoogleNexusWebsiteMenu/css/component.css",
+		"/C/wamp/www/landapp/assets/js/vendor/dmmenu/gnmenu.js",
+		"/C/wamp/www/landapp/assets/scss/partials/_normalize.scss",
+		"/C/wamp/www/landapp/assets/scss/partials/_mixins.scss",
+		"/C/wamp/www/landapp/assets/scss/vendor/_nexusmenu.scss",
+		"/C/wamp/www/landapp/package.json",
+		"/C/wamp/www/landapp/js/vendor/enquire.js",
+		"/C/wamp/www/landapp/css/style.css",
+		"/C/Users/Natalia/Desktop/owl.carousel (2)/demos/one.html",
+		"/C/wamp/www/designmag/images/gallery/demo/index.html",
+		"/C/Users/Natalia/Desktop/test.html",
+		"/C/wamp/www/landapp/js/plugins/jquery.ba-hashchange.min.js",
+		"/C/wamp/www/landapp/js/script.js",
+		"/C/wamp/www/designmag/images/gallery/demo/styles/layout.css",
+		"/C/wamp/www/designmag/scss/modules/_colours.scss",
+		"/C/wamp/www/designmag/stylesheets/fonts/belizio/stylesheet.css",
+		"/C/wamp/www/designmag/config.rb",
+		"/C/wamp/www/designmag/stylesheets/fonts/typed/stylesheet.css",
+		"/C/wamp/www/designmag/works/versailles-project.html",
+		"/C/wamp/www/landapp/js/plugins/jquery.mousewheel.js",
+		"/C/wamp/www/landapp/js/vendor/jquery-1.10.2.min.js",
+		"/C/wamp/www/designmag/js/vendor/typed/typed.js",
+		"/C/wamp/www/designmag/stylesheets/fonts/type/styles.css",
+		"/C/wamp/www/designmag/stylesheets/fonts/typer/stylesheet.css",
+		"/C/Users/Natalia/Desktop/education.html",
+		"/C/Users/Natalia/AppData/Local/Temp/wz08c9/stylesheet.css",
+		"/C/wamp/www/newapp/scss/_settings.scss",
+		"/C/wamp/www/designmag/versailles-project.html",
+		"/C/wamp/www/newapp/scss/partials/_typography.scss",
+		"/C/wamp/www/newapp/scss/partials/_base.scss",
+		"/C/wamp/www/newapp/js/vendor/waypoints/scripts.js",
+		"/C/wamp/www/newapp/index.php",
+		"/C/Users/Natalia/Desktop/index.html",
+		"/C/Users/Natalia/AppData/Roaming/Adobe/Adobe Illustrator/17.1.0/Debug Database.txt",
+		"/C/wamp/www/newapp/js/vendor/pageSwiper/responsive-swipe.js",
+		"/C/Users/Natalia/Desktop/museo-slab/web fonts/@Font-Face License.txt",
+		"/C/wamp/www/newapp/Gruntfile.js",
+		"/C/wamp/www/newapp/js/app.js",
+		"/C/wamp/www/newapp/disclaimer.php",
+		"/C/wamp/www/newapp/lib/outer_page.php",
+		"/C/wamp/www/newapp/lib/outer_page_bits.php",
+		"/C/wamp/www/newapp/lib/utils.php",
+		"/C/wamp/www/responsive-swipe-custom/swiping.php",
+		"/C/wamp/www/responsive-swipe-custom/setup.php",
+		"/C/wamp/www/responsive-swipe-custom/responsive-content.php",
+		"/C/wamp/www/responsive-swipe-custom/installation.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\landapp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"home",
+			"work-page",
+			"large-only",
+			"samsung",
+			"tabs-menu",
+			"btn-control ",
+			"about_section",
+			"#about",
+			"tab-title",
+			"tabs-menu",
+			"375",
+			"310",
+			"yourcar",
+			"canvas-ta",
+			"bg-texture-2",
+			"47b",
+			"btn",
+			"ctas-holder",
+			"header-intro",
+			"tablet",
+			"120%",
+			"#main-content",
+			"h1",
+			"0.57",
+			"margin: 0.67em 0;",
+			"header-section",
+			"text-align-center",
+			"paper-1",
+			"paper",
+			"crumped",
+			"coffee",
+			"iphone",
+			"ipad",
+			"coffe",
+			"ipad",
+			"coffee",
+			"ipad",
+			"tablet",
+			"canvas-coffee",
+			"coffee",
+			"snack",
+			"canvas-photo-2",
+			"canvas-notepad",
+			"canvas-coffee",
+			"auc",
+			"auck",
+			"auc",
+			"fixed_title",
+			"fixed-tit",
+			"menu-wrap-container",
+			".header-section",
+			"animat",
+			"spacer",
+			"smoothing",
+			"border-radius",
+			"@include border-radius(9999px);",
+			"border-radius",
+			"/home/",
+			"box-shadow",
+			"../images//",
+			"../images/",
+			"body.page-home",
+			"header",
+			"lato",
+			"latoLight",
+			"lato",
+			"dm-menu",
+			"search",
+			"box-",
+			"gn",
+			"gn-",
+			"mousewheel",
+			"hashchange",
+			"<<",
+			"bg-",
+			"http://landerapp.com/img",
+			"    <",
+			"nav_bg",
+			"//min",
+			"min",
+			"hsContent",
+			"../",
+			"cover-page",
+			"fixed",
+			"scrolling",
+			"fixed",
+			"item",
+			"4em",
+			"light",
+			"block",
+			"h4",
+			"h2",
+			"h1,h2,h3,h4,h5,h6",
+			"right-part",
+			"white",
+			"transit",
+			"#top_slides_section",
+			"#owl-demo-gallery",
+			"figure",
+			".modalBox figure",
+			"img",
+			"animated-images",
+			"shadow",
+			"about-",
+			"content",
+			"gn-menu",
+			"38",
+			"$",
+			"swiper",
+			"/download-zip",
+			"$",
+			"homeSection",
+			"pageBody",
+			"html",
+			"php",
+			"../img/works/",
+			"works",
+			"work",
+			"view",
+			"view/",
+			"img/",
+			"php",
+			"view/works",
+			".info h1",
+			"assets",
+			"beli",
+			"view",
+			"f.send(a.hasContent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"border-radius: 9999px;",
+			"/landingpage/",
+			"dm-",
+			"",
+			"images",
+			"",
+			"4",
+			"jQuery",
+			"img/works/",
+			"$main-font-nav",
+			"$primary-nav-color",
+			"$primary-color",
+			"primary-color",
+			"$main-border-color",
+			"$basic_red",
+			"fonts"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 22.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "demo_magento.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"161",
+				"versailles\\old_one\\jupgrade\\installation-old\\sql\\mysql\\diff_15_to_16.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

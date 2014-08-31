@@ -1,0 +1,29 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\newapp"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\landapp"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\landerapp"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\designmag"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\Natalia\\Documents\\StudyBooks\\explore_california"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
